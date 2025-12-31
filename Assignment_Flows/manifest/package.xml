@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account_and_Open_inquiries_chart</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>NIX_Task_Accounts_display</members>
+        <name>FlexiPage</name>
+    </types>
+    <version>62.0</version>
+</Package>
